@@ -11,7 +11,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
     <div align="center">
-  <img src="https://hapeo.com/wp-content/uploads/2019/12/1_t8sE0zYy7a3csAtqCeYULg.jpeg" width="800" height="300"/><br>
+  <img src="https://github.com/aysh01/CODSOFT-ML/blob/main/CodSoft__ML.jpg" width="800" height="300"/><br>
       <hr>
       <div align="left">
 :woman_technologist: This, is a <a href="https://in.linkedin.com/company/cognoriseinfotech" style="text-decoration:none;">CognoRise InfoTech</a> Internship in various domains. Also, <a href="https://cognoriseinfotech.com/hackathon">Hackathons</a> which we're conducted by CognoRise InfoTech..<br>
