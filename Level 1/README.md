@@ -14,5 +14,7 @@
       <a href="https://drive.google.com/drive/folders/1WuqOCplli2___4_IhGfTzL2beRKpiVBw?usp=drive_link">
   <img src="https://github.com/aysh01/CODSOFT-ML/blob/main/Level%201/Screenshot%202024-08-11%20185900.png" width="800" height="500"/></a><br>
       <hr>
+      <h2>Predicted Output .</h2>
+      <img src="https://github.com/aysh01/CODSOFT-ML/blob/main/Level%201/Screenshot%202024-08-11%20185900.png" width="800" height="500"/>
 </div>
 </div>
