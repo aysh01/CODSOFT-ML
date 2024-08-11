@@ -14,11 +14,7 @@
   <img src="https://github.com/aysh01/CODSOFT-ML/blob/main/Level%201/Screenshot%202024-08-11%20185900.png" width="800" height="500"/><br>
       <hr>
       <div align="left">
-## Guide to Import the 'train & test' dataset in colab.
-
-Use the package manager [pip](https://docs.python.org/3/installing/index.html) to install all the necessary dependencies.
-
-## To work with the packages, you have to install them. You can do this by using the command prompt or terminal.
+## Guide to Import the 'train & test' dataset in colab..
 
 Type this command 👇
 ```python
