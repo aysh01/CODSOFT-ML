@@ -13,7 +13,5 @@
     <div align="center">
   <img src="https://github.com/aysh01/CODSOFT-ML/blob/main/Level%203/ML.png" width="800" height="500"/></a><br>
       <hr>
-      <h2>Predicted Output .</h2>
-      <img src="https://github.com/aysh01/CODSOFT-ML/blob/main/Level%202/download.png" width="800" height="500"/>
 </div>
 </div>
