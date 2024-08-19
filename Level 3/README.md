@@ -11,7 +11,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
     <div align="center">
-  <img src="https://github.com/aysh01/CODSOFT-ML/blob/main/Level%202/Screenshot%202024-08-16%20163915.png" width="800" height="500"/></a><br>
+  <img src="https://github.com/aysh01/CODSOFT-ML/blob/main/Level%203/ML.png" width="800" height="500"/></a><br>
       <hr>
       <h2>Predicted Output .</h2>
       <img src="https://github.com/aysh01/CODSOFT-ML/blob/main/Level%202/download.png" width="800" height="500"/>
