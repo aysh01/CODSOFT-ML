@@ -7,8 +7,7 @@
   </a><br>
         <img src="https://komarev.com/ghpvc/?username=aysh01&style=flat-square&color=blue" alt=""/>
 <h1>
-  Machine Learning TASK 2 | CUSTOMER CHURN
-PREDICTION
+  Machine Learning TASK 3 | SPAM SMS DETECTION
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
     <div align="center">
